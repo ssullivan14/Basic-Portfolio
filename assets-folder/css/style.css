@@ -75,7 +75,7 @@ section {
     margin: auto;
     clear: both;
     overflow: auto; 
-    padding-bottom: 180px;
+    padding-bottom: 93px;
 }
 
 h2 {
@@ -90,14 +90,18 @@ hr {
 }
 
 .images {
-    height: 177px;
+    height: 295px;
 }
 
 .images img {
     margin: 0px -8px;
-    width: 227px;
+    width: 218px;
     padding-left: 62px;
     padding-top: 12px;
+}
+
+.subject {
+
 }
 
 .pic {
@@ -128,8 +132,9 @@ h2 {
         background-color: #f2f2f2;
         padding: 20px;
         width: 859px;
+        height: 600px;
         margin-left: 28px;
-        margin-bottom: -270px;
+        margin-bottom: -355px;
 }
 
 input[type=submit]:hover {
